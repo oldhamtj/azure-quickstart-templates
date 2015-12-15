@@ -38,7 +38,7 @@
     }
   },
   "variables": {
-    "location": "WestEurope",
+    "location": "West Europe",
     "imagePublisher": "Oracle",
     "imageOffer": "Oracle-Linux-7",
     "OSDiskName": "osdiskfororalinuxsimple",
