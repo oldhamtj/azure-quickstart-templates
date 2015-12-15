@@ -15,7 +15,7 @@
       "value": "uniqueDNS"
     },
     "OracleLinuxOSVersion": {
-      "value": "7.0.0"
+      "value": "OL70"
     }
   }
 }
