@@ -52,7 +52,7 @@
     "vmStorageAccountContainerName": "vhds",
     "vmName": "MyOracleLinuxVM",
     "vmSize": "Standard_D1",
-    "virtualNetworkName": "MyVNET",
+    "virtualNetworkName": "MyVNET2",
     "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',variables('virtualNetworkName'))]",
     "subnetRef": "[concat(variables('vnetID'),'/subnets/',variables('subnetName'))]"
   },
