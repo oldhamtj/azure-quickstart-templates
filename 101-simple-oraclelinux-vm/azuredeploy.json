@@ -28,12 +28,12 @@
     },
     "OracleLinuxOSVersion": {
       "type": "string",
-      "defaultValue": "7.0.0",
+      "defaultValue": "OL70",
       "allowedValues": [
-          "7.0.0"
+          "OL70"
       ],
       "metadata": {
-        "description": "The OL version for the VM. This will pick a fully patched image of this given OL version. Allowed values: 7.0.0"
+        "description": "The OL version for the VM. This will pick a fully patched image of this given OL version. Allowed values: OL70"
       }
     }
   },
